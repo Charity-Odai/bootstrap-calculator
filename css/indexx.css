@@ -1,0 +1,30 @@
+.container{
+	border: 1px solid black;
+	width: 50%;
+	margin: 150px;
+	align-items: center;
+
+}
+
+.a{
+	background-color: lightgray;
+	padding-top: 10px;
+	color: black;
+	border: 1px solid black;
+
+}
+
+
+.v{
+	background-color: orange;
+	padding-top: 10px;
+	color: white;
+	border: 1px solid black;
+
+}
+
+.first{
+	background-color: gray;
+}
+
+
